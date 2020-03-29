@@ -1,0 +1,11 @@
+ipykernel
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+pandas
+numpy
+nltk
+filterpy
+scipy
+sklearn
